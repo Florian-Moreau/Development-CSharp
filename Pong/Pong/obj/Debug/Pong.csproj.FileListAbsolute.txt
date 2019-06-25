@@ -1,0 +1,16 @@
+A:\Programmation test\C#\Pong\Pong\bin\Debug\Pong.exe.config
+A:\Programmation test\C#\Pong\Pong\bin\Debug\Pong.exe
+A:\Programmation test\C#\Pong\Pong\bin\Debug\Pong.pdb
+A:\Programmation test\C#\Pong\Pong\obj\Debug\Pong.csprojResolveAssemblyReference.cache
+A:\Programmation test\C#\Pong\Pong\obj\Debug\Pong.MainForm.resources
+A:\Programmation test\C#\Pong\Pong\obj\Debug\Pong.csproj.GenerateResource.Cache
+A:\Programmation test\C#\Pong\Pong\obj\Debug\Pong.exe
+A:\Programmation test\C#\Pong\Pong\obj\Debug\Pong.pdb
+D:\Programmation\C#\SharpDevelop\Pong\Pong\bin\Debug\Pong.exe.config
+D:\Programmation\C#\SharpDevelop\Pong\Pong\bin\Debug\Pong.exe
+D:\Programmation\C#\SharpDevelop\Pong\Pong\bin\Debug\Pong.pdb
+D:\Programmation\C#\SharpDevelop\Pong\Pong\obj\Debug\Pong.csprojResolveAssemblyReference.cache
+D:\Programmation\C#\SharpDevelop\Pong\Pong\obj\Debug\Pong.MainForm.resources
+D:\Programmation\C#\SharpDevelop\Pong\Pong\obj\Debug\Pong.csproj.GenerateResource.Cache
+D:\Programmation\C#\SharpDevelop\Pong\Pong\obj\Debug\Pong.exe
+D:\Programmation\C#\SharpDevelop\Pong\Pong\obj\Debug\Pong.pdb

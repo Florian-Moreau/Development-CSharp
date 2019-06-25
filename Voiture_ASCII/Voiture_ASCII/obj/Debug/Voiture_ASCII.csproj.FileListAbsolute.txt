@@ -1,0 +1,6 @@
+D:\Programmation\C#\SharpDevelop\Voiture_ASCII\Voiture_ASCII\obj\Debug\Voiture_ASCII.csprojResolveAssemblyReference.cache
+D:\Programmation\C#\SharpDevelop\Voiture_ASCII\Voiture_ASCII\bin\Debug\Voiture_ASCII.exe.config
+D:\Programmation\C#\SharpDevelop\Voiture_ASCII\Voiture_ASCII\bin\Debug\Voiture_ASCII.exe
+D:\Programmation\C#\SharpDevelop\Voiture_ASCII\Voiture_ASCII\bin\Debug\Voiture_ASCII.pdb
+D:\Programmation\C#\SharpDevelop\Voiture_ASCII\Voiture_ASCII\obj\Debug\Voiture_ASCII.exe
+D:\Programmation\C#\SharpDevelop\Voiture_ASCII\Voiture_ASCII\obj\Debug\Voiture_ASCII.pdb
