@@ -1,0 +1,24 @@
+A:\Programmation test\C#\BaseDeDonnees\BaseDeDonnee\obj\Debug\BaseDeDonnees.csprojResolveAssemblyReference.cache
+A:\Programmation test\C#\BaseDeDonnees\BaseDeDonnee\obj\Debug\BaseDeDonnees.MainForm.resources
+A:\Programmation test\C#\BaseDeDonnees\BaseDeDonnee\obj\Debug\BaseDeDonnees.csproj.GenerateResource.Cache
+D:\Programmation\C#\SharpDevelop\BaseDeDonnees\BaseDeDonnee\obj\Debug\BaseDeDonnees.csprojResolveAssemblyReference.cache
+D:\Programmation\C#\SharpDevelop\BaseDeDonnees\BaseDeDonnee\obj\Debug\BaseDeDonnees.MainForm.resources
+D:\Programmation\C#\SharpDevelop\BaseDeDonnees\BaseDeDonnee\obj\Debug\BaseDeDonnees.csproj.GenerateResource.Cache
+D:\Programmation\C#\SharpDevelop\BaseDeDonnees\BaseDeDonnee\bin\Debug\BaseDeDonnees.exe.config
+D:\Programmation\C#\SharpDevelop\BaseDeDonnees\BaseDeDonnee\bin\Debug\BaseDeDonnees.exe
+D:\Programmation\C#\SharpDevelop\BaseDeDonnees\BaseDeDonnee\bin\Debug\BaseDeDonnees.pdb
+D:\Programmation\C#\SharpDevelop\BaseDeDonnees\BaseDeDonnee\obj\Debug\BaseDeDonnees.exe
+D:\Programmation\C#\SharpDevelop\BaseDeDonnees\BaseDeDonnee\obj\Debug\BaseDeDonnees.pdb
+A:\Programmation test\C#\BaseDeDonnees\BaseDeDonnee\bin\Debug\BaseDeDonnees.exe.config
+A:\Programmation test\C#\BaseDeDonnees\BaseDeDonnee\bin\Debug\BaseDeDonnees.exe
+A:\Programmation test\C#\BaseDeDonnees\BaseDeDonnee\bin\Debug\BaseDeDonnees.pdb
+A:\Programmation test\C#\BaseDeDonnees\BaseDeDonnee\obj\Debug\BaseDeDonnees.exe
+A:\Programmation test\C#\BaseDeDonnees\BaseDeDonnee\obj\Debug\BaseDeDonnees.pdb
+D:\Programmation\C#\SharpDevelop\Formulaire_V1\BaseDeDonnee\bin\Debug\BaseDeDonnees.exe.config
+D:\Programmation\C#\SharpDevelop\Formulaire_V1\BaseDeDonnee\bin\Debug\BaseDeDonnees.exe
+D:\Programmation\C#\SharpDevelop\Formulaire_V1\BaseDeDonnee\bin\Debug\BaseDeDonnees.pdb
+D:\Programmation\C#\SharpDevelop\Formulaire_V1\BaseDeDonnee\obj\Debug\BaseDeDonnees.csprojResolveAssemblyReference.cache
+D:\Programmation\C#\SharpDevelop\Formulaire_V1\BaseDeDonnee\obj\Debug\BaseDeDonnees.MainForm.resources
+D:\Programmation\C#\SharpDevelop\Formulaire_V1\BaseDeDonnee\obj\Debug\BaseDeDonnees.csproj.GenerateResource.Cache
+D:\Programmation\C#\SharpDevelop\Formulaire_V1\BaseDeDonnee\obj\Debug\BaseDeDonnees.exe
+D:\Programmation\C#\SharpDevelop\Formulaire_V1\BaseDeDonnee\obj\Debug\BaseDeDonnees.pdb
