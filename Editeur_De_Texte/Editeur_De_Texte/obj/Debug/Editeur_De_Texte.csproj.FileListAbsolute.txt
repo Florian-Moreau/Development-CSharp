@@ -1,0 +1,8 @@
+D:\Programmation\C#\SharpDevelop\Editeur_De_Texte\Editeur_De_Texte\bin\Debug\Editeur_De_Texte.exe.config
+D:\Programmation\C#\SharpDevelop\Editeur_De_Texte\Editeur_De_Texte\bin\Debug\Editeur_De_Texte.exe
+D:\Programmation\C#\SharpDevelop\Editeur_De_Texte\Editeur_De_Texte\bin\Debug\Editeur_De_Texte.pdb
+D:\Programmation\C#\SharpDevelop\Editeur_De_Texte\Editeur_De_Texte\obj\Debug\Editeur_De_Texte.csprojResolveAssemblyReference.cache
+D:\Programmation\C#\SharpDevelop\Editeur_De_Texte\Editeur_De_Texte\obj\Debug\Editeur_De_Texte.MainForm.resources
+D:\Programmation\C#\SharpDevelop\Editeur_De_Texte\Editeur_De_Texte\obj\Debug\Editeur_De_Texte.csproj.GenerateResource.Cache
+D:\Programmation\C#\SharpDevelop\Editeur_De_Texte\Editeur_De_Texte\obj\Debug\Editeur_De_Texte.exe
+D:\Programmation\C#\SharpDevelop\Editeur_De_Texte\Editeur_De_Texte\obj\Debug\Editeur_De_Texte.pdb

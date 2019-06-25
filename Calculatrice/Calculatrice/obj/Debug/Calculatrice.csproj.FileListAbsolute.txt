@@ -1,0 +1,16 @@
+A:\Programmation test\C#\Calculatrice\Calculatrice\bin\Debug\Calculatrice.exe.config
+A:\Programmation test\C#\Calculatrice\Calculatrice\bin\Debug\Calculatrice.exe
+A:\Programmation test\C#\Calculatrice\Calculatrice\bin\Debug\Calculatrice.pdb
+A:\Programmation test\C#\Calculatrice\Calculatrice\obj\Debug\Calculatrice.csprojResolveAssemblyReference.cache
+A:\Programmation test\C#\Calculatrice\Calculatrice\obj\Debug\Calculatrice.MainForm.resources
+A:\Programmation test\C#\Calculatrice\Calculatrice\obj\Debug\Calculatrice.csproj.GenerateResource.Cache
+A:\Programmation test\C#\Calculatrice\Calculatrice\obj\Debug\Calculatrice.exe
+A:\Programmation test\C#\Calculatrice\Calculatrice\obj\Debug\Calculatrice.pdb
+D:\Programmation\C#\SharpDevelop\Calculatrice\Calculatrice\bin\Debug\Calculatrice.exe.config
+D:\Programmation\C#\SharpDevelop\Calculatrice\Calculatrice\bin\Debug\Calculatrice.exe
+D:\Programmation\C#\SharpDevelop\Calculatrice\Calculatrice\bin\Debug\Calculatrice.pdb
+D:\Programmation\C#\SharpDevelop\Calculatrice\Calculatrice\obj\Debug\Calculatrice.csprojResolveAssemblyReference.cache
+D:\Programmation\C#\SharpDevelop\Calculatrice\Calculatrice\obj\Debug\Calculatrice.MainForm.resources
+D:\Programmation\C#\SharpDevelop\Calculatrice\Calculatrice\obj\Debug\Calculatrice.csproj.GenerateResource.Cache
+D:\Programmation\C#\SharpDevelop\Calculatrice\Calculatrice\obj\Debug\Calculatrice.exe
+D:\Programmation\C#\SharpDevelop\Calculatrice\Calculatrice\obj\Debug\Calculatrice.pdb
