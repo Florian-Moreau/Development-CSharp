@@ -1,0 +1,50 @@
+A:\Programmation test\C#\BaseDeDonnees\BaseDeDonnee\obj\Debug\BaseDeDonnees.csprojResolveAssemblyReference.cache
+A:\Programmation test\C#\BaseDeDonnees\BaseDeDonnee\obj\Debug\BaseDeDonnees.MainForm.resources
+A:\Programmation test\C#\BaseDeDonnees\BaseDeDonnee\obj\Debug\BaseDeDonnees.csproj.GenerateResource.Cache
+D:\Programmation\C#\SharpDevelop\BaseDeDonnees\BaseDeDonnee\obj\Debug\BaseDeDonnees.csprojResolveAssemblyReference.cache
+D:\Programmation\C#\SharpDevelop\BaseDeDonnees\BaseDeDonnee\obj\Debug\BaseDeDonnees.MainForm.resources
+D:\Programmation\C#\SharpDevelop\BaseDeDonnees\BaseDeDonnee\obj\Debug\BaseDeDonnees.csproj.GenerateResource.Cache
+D:\Programmation\C#\SharpDevelop\BaseDeDonnees\BaseDeDonnee\bin\Debug\BaseDeDonnees.exe.config
+D:\Programmation\C#\SharpDevelop\BaseDeDonnees\BaseDeDonnee\bin\Debug\BaseDeDonnees.exe
+D:\Programmation\C#\SharpDevelop\BaseDeDonnees\BaseDeDonnee\bin\Debug\BaseDeDonnees.pdb
+D:\Programmation\C#\SharpDevelop\BaseDeDonnees\BaseDeDonnee\obj\Debug\BaseDeDonnees.exe
+D:\Programmation\C#\SharpDevelop\BaseDeDonnees\BaseDeDonnee\obj\Debug\BaseDeDonnees.pdb
+A:\Programmation test\C#\BaseDeDonnees\BaseDeDonnee\bin\Debug\BaseDeDonnees.exe.config
+A:\Programmation test\C#\BaseDeDonnees\BaseDeDonnee\bin\Debug\BaseDeDonnees.exe
+A:\Programmation test\C#\BaseDeDonnees\BaseDeDonnee\bin\Debug\BaseDeDonnees.pdb
+A:\Programmation test\C#\BaseDeDonnees\BaseDeDonnee\obj\Debug\BaseDeDonnees.exe
+A:\Programmation test\C#\BaseDeDonnees\BaseDeDonnee\obj\Debug\BaseDeDonnees.pdb
+A:\Programmation test\C#\Formulaire_V1\BaseDeDonnee\bin\Debug\BaseDeDonnees.exe.config
+A:\Programmation test\C#\Formulaire_V1\BaseDeDonnee\bin\Debug\BaseDeDonnees.exe
+A:\Programmation test\C#\Formulaire_V1\BaseDeDonnee\bin\Debug\BaseDeDonnees.pdb
+A:\Programmation test\C#\Formulaire_V1\BaseDeDonnee\obj\Debug\BaseDeDonnees.csprojResolveAssemblyReference.cache
+A:\Programmation test\C#\Formulaire_V1\BaseDeDonnee\obj\Debug\BaseDeDonnees.MainForm.resources
+A:\Programmation test\C#\Formulaire_V1\BaseDeDonnee\obj\Debug\BaseDeDonnees.csproj.GenerateResource.Cache
+A:\Programmation test\C#\Formulaire_V1\BaseDeDonnee\obj\Debug\BaseDeDonnees.exe
+A:\Programmation test\C#\Formulaire_V1\BaseDeDonnee\obj\Debug\BaseDeDonnees.pdb
+D:\Programmation\C#\SharpDevelop\Formulaire_V2\BaseDeDonnee\bin\Debug\BaseDeDonnees.exe.config
+D:\Programmation\C#\SharpDevelop\Formulaire_V2\BaseDeDonnee\bin\Debug\BaseDeDonnees.exe
+D:\Programmation\C#\SharpDevelop\Formulaire_V2\BaseDeDonnee\bin\Debug\BaseDeDonnees.pdb
+D:\Programmation\C#\SharpDevelop\Formulaire_V2\BaseDeDonnee\obj\Debug\BaseDeDonnees.MainForm.resources
+D:\Programmation\C#\SharpDevelop\Formulaire_V2\BaseDeDonnee\obj\Debug\BaseDeDonnees.csproj.GenerateResource.Cache
+D:\Programmation\C#\SharpDevelop\Formulaire_V2\BaseDeDonnee\obj\Debug\BaseDeDonnees.exe
+D:\Programmation\C#\SharpDevelop\Formulaire_V2\BaseDeDonnee\obj\Debug\BaseDeDonnees.pdb
+D:\Programmation\C#\SharpDevelop\Formulaire_V2\BaseDeDonnee\bin\Debug\MySql.Data.dll
+D:\Programmation\C#\SharpDevelop\Formulaire_V2\BaseDeDonnee\bin\Debug\Google.Protobuf.dll
+D:\Programmation\C#\SharpDevelop\Formulaire_V2\BaseDeDonnee\bin\Debug\MySql.Data.xml
+D:\Programmation\C#\SharpDevelop\Formulaire_V2\BaseDeDonnee\obj\Debug\BaseDeDonnees.csprojAssemblyReference.cache
+D:\Programmation\C#\SharpDevelop\Formulaire_V2\BaseDeDonnee\obj\Debug\BaseDeDonnees.csproj.CoreCompileInputs.cache
+D:\Programmation\C#\SharpDevelop\Formulaire_V2\BaseDeDonnee\obj\Debug\BaseDeDonnees.csproj.CopyComplete
+D:\Programmation\C#\Perso\Formulaire_V2\BaseDeDonnee\bin\Debug\BaseDeDonnees.exe.config
+D:\Programmation\C#\Perso\Formulaire_V2\BaseDeDonnee\bin\Debug\BaseDeDonnees.exe
+D:\Programmation\C#\Perso\Formulaire_V2\BaseDeDonnee\bin\Debug\BaseDeDonnees.pdb
+D:\Programmation\C#\Perso\Formulaire_V2\BaseDeDonnee\bin\Debug\MySql.Data.dll
+D:\Programmation\C#\Perso\Formulaire_V2\BaseDeDonnee\bin\Debug\Google.Protobuf.dll
+D:\Programmation\C#\Perso\Formulaire_V2\BaseDeDonnee\bin\Debug\MySql.Data.xml
+D:\Programmation\C#\Perso\Formulaire_V2\BaseDeDonnee\obj\Debug\BaseDeDonnees.csprojAssemblyReference.cache
+D:\Programmation\C#\Perso\Formulaire_V2\BaseDeDonnee\obj\Debug\BaseDeDonnees.MainForm.resources
+D:\Programmation\C#\Perso\Formulaire_V2\BaseDeDonnee\obj\Debug\BaseDeDonnees.csproj.GenerateResource.cache
+D:\Programmation\C#\Perso\Formulaire_V2\BaseDeDonnee\obj\Debug\BaseDeDonnees.csproj.CoreCompileInputs.cache
+D:\Programmation\C#\Perso\Formulaire_V2\BaseDeDonnee\obj\Debug\BaseDeDonnees.csproj.CopyComplete
+D:\Programmation\C#\Perso\Formulaire_V2\BaseDeDonnee\obj\Debug\BaseDeDonnees.exe
+D:\Programmation\C#\Perso\Formulaire_V2\BaseDeDonnee\obj\Debug\BaseDeDonnees.pdb

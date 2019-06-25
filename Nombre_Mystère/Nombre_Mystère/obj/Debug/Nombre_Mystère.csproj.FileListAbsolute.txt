@@ -1,0 +1,12 @@
+A:\Programmation test\C#\Nombre_Mystère\Nombre_Mystère\bin\Debug\Nombre_Mystère.exe.config
+A:\Programmation test\C#\Nombre_Mystère\Nombre_Mystère\bin\Debug\Nombre_Mystère.exe
+A:\Programmation test\C#\Nombre_Mystère\Nombre_Mystère\bin\Debug\Nombre_Mystère.pdb
+A:\Programmation test\C#\Nombre_Mystère\Nombre_Mystère\obj\Debug\Nombre_Mystère.csprojResolveAssemblyReference.cache
+A:\Programmation test\C#\Nombre_Mystère\Nombre_Mystère\obj\Debug\Nombre_Mystère.exe
+A:\Programmation test\C#\Nombre_Mystère\Nombre_Mystère\obj\Debug\Nombre_Mystère.pdb
+D:\Programmation\C#\SharpDevelop\Nombre_Mystère\Nombre_Mystère\bin\Debug\Nombre_Mystère.exe.config
+D:\Programmation\C#\SharpDevelop\Nombre_Mystère\Nombre_Mystère\bin\Debug\Nombre_Mystère.exe
+D:\Programmation\C#\SharpDevelop\Nombre_Mystère\Nombre_Mystère\bin\Debug\Nombre_Mystère.pdb
+D:\Programmation\C#\SharpDevelop\Nombre_Mystère\Nombre_Mystère\obj\Debug\Nombre_Mystère.csprojResolveAssemblyReference.cache
+D:\Programmation\C#\SharpDevelop\Nombre_Mystère\Nombre_Mystère\obj\Debug\Nombre_Mystère.exe
+D:\Programmation\C#\SharpDevelop\Nombre_Mystère\Nombre_Mystère\obj\Debug\Nombre_Mystère.pdb

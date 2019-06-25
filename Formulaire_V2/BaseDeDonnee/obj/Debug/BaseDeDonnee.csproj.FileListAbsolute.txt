@@ -1,0 +1,3 @@
+A:\Programmation test\C#\BaseDeDonnee\BaseDeDonnee\obj\Debug\BaseDeDonnee.csprojResolveAssemblyReference.cache
+A:\Programmation test\C#\BaseDeDonnee\BaseDeDonnee\obj\Debug\BaseDeDonnee.MainForm.resources
+A:\Programmation test\C#\BaseDeDonnee\BaseDeDonnee\obj\Debug\BaseDeDonnee.csproj.GenerateResource.Cache
